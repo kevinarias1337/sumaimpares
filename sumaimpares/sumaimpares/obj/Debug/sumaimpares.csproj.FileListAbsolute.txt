@@ -1,0 +1,10 @@
+D:\sumaimpares\sumaimpares\bin\Debug\sumaimpares.exe.config
+D:\sumaimpares\sumaimpares\bin\Debug\sumaimpares.exe
+D:\sumaimpares\sumaimpares\bin\Debug\sumaimpares.pdb
+D:\sumaimpares\sumaimpares\obj\Debug\sumaimpares.csprojAssemblyReference.cache
+D:\sumaimpares\sumaimpares\obj\Debug\sumaimpares.Form1.resources
+D:\sumaimpares\sumaimpares\obj\Debug\sumaimpares.Properties.Resources.resources
+D:\sumaimpares\sumaimpares\obj\Debug\sumaimpares.csproj.GenerateResource.cache
+D:\sumaimpares\sumaimpares\obj\Debug\sumaimpares.csproj.CoreCompileInputs.cache
+D:\sumaimpares\sumaimpares\obj\Debug\sumaimpares.exe
+D:\sumaimpares\sumaimpares\obj\Debug\sumaimpares.pdb
